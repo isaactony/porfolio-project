@@ -1,0 +1,39 @@
+
+
+.background-image {
+    height:100vh;
+    background: url('images/background-image.jpg');
+    background-size:cover;
+    position:relative;
+}
+
+.my-name {
+    font-size: 4.4rem;
+    color: black;
+}
+
+.description {
+    color: white;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.bio-description {
+    font-size: 2rem;
+    color: black;
+}
+
+.profile_picture {
+    width: 100%;
+}
+
+form {
+    max-width: 20em;
+    margin: auto;
+    text-align: center;
+ }
+
